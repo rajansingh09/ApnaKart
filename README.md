@@ -15,7 +15,7 @@ ApnaKart is a comprehensive e-commerce platform designed to provide a seamless s
 
 ## Technologies Used
 
-- Frontend: React, Redux, Bootstrap
+- Frontend: HTML5, CSS3, JavaScript, Bootstrap.
 - Payment Gateway: Upi, Qr code & Net Banking.
 
 ## Getting Started
