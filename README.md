@@ -1,6 +1,6 @@
 # 🛒 ApnaKart – Frontend eCommerce Website
 
-**ApnaKart** is a full-featured eCommerce web application built with modern technologies. It provides a seamless shopping experience with features like product listings, filtering, cart management, user authentication, and admin control.
+**ApnaKart** is a frontend-featured eCommerce web application built with modern technologies. It provides a seamless shopping experience with features like product listings, filtering, cart management, user authentication, and admin control.
 
 ## 🚀 Live Preview
 
