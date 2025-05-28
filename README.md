@@ -1,53 +1,104 @@
-Author - Rajan Kumar
+# 🛒 ApnaKart – Full-Stack eCommerce Website
 
-## Project Description
+**ApnaKart** is a full-featured eCommerce web application built with modern technologies. It provides a seamless shopping experience with features like product listings, filtering, cart management, user authentication, and admin control.
 
-# ApnaKart
+## 🚀 Live Preview
 
-ApnaKart is a comprehensive e-commerce platform designed to provide a seamless shopping experience for users. It includes features for browsing products, adding items to a cart, managing orders, and making payments.
+> Coming soon… *(Deploy via Vercel/Netlify for frontend and Render/AWS for backend)*
 
-## Features
+---
 
-- Product Search and Filtering
-- Shopping Cart Management
-- Order Processing
-- Payment Gateway Integration
+## 🌟 Features
 
-## Technologies Used
+### 👤 User
+- ✅ User authentication (Login/Register)
+- 🛍️ Browse & search products
+- 📦 Add to cart, wishlist, and checkout
+- 🧾 Order tracking and purchase history
 
-- Frontend: HTML5, CSS3, JavaScript, Bootstrap.
-- Payment Gateway: Upi, Qr code & Net Banking.
+---
 
-## Getting Started
+## 🧱 Tech Stack
 
-### Installation
+### Frontend
+- HTML5, Tailwind CSS, JavaScript (Vite)
+- Axios for API calls
+- Responsive design with reusable components
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/rajansingh09/ApnaKart.git
-    cd ApnaKart
-    ```
+### Backend
+- Node.js, Express.js
+- MongoDB with Mongoose
+- JWT Authentication
+- RESTful API architecture
 
-2. Install dependencies:
-    ```sh
-    npm install
-    ```
-    
-## Usage
+### Other Integrations
+- 🛒 Payment Gateway: [Paytm] *(MID: PEOPLE31207336692326)*
+- ☁️ Cloud Storage (optional)
+- 🔐 Environment-based configuration
 
-1. Navigate to `http://localhost:3000` in your browser.
-2. Register or log in to access the full range of features.
-3. Browse products, add items to your cart, and proceed to checkout.
+---
 
-## Contributing
+## 📁 Project Structure
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+```plaintext
+ApnaKart/
+│   ├── index.html
+│   ├── src/
+│   │   ├── js/            # API, cart, filtering logic
+│   │   ├── css/           # Tailwind styles
+│   │   ├── components/    # Navbar, Footer, etc.
+└── README.md
+```
 
-## License
+---
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+## ⚙️ Getting Started
 
-## Contact
+### 1. Clone the Repository
 
-For questions or support, please reach out at LinkedIn.
+```bash
+git clone https://github.com/rajansingh09/ApnaKart.git
+cd ApnaKart
+```
 
+### 2. Install Dependencies
+
+#### Frontend:
+
+```bash
+cd ApnaKart
+npm install
+npm run dev
+```
+
+---
+
+
+## 📸 Screenshots
+
+> Add screenshots of homepage, cart, and admin panel here (optional)
+
+---
+
+## 👨‍💻 Author
+
+**Rajan Kumar**  
+
+---
+
+## ⭐️ Support This Project
+
+If you found this project helpful:
+
+* 🌟 Star this repo
+* 🍴 Fork it
+* 📢 Share it
+* 🛠️ Open issues & contribute
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+```
