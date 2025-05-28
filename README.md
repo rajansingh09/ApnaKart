@@ -4,7 +4,7 @@
 
 ## 🚀 Live Preview
 
-> Coming soon… *(Deploy via Vercel/Netlify for frontend and Render/AWS for backend)*
+> Coming soon… *(Deploy via Vercel/Netlify for frontend and Render)*
 
 ---
 
